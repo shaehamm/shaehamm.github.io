@@ -5,8 +5,8 @@ ghost:
   url: jekyller.github.io/jasper2
   bio: The professional publishing platform
   picture: assets/images/ghost.png
-  linkedin: ghost
-  github: tryghost
+  facebook: ghost
+  twitter: tryghost
   cover: False
 hannah:
   username: hannah
@@ -16,8 +16,8 @@ hannah:
   url: hannah.wf
   bio: Hannah is the co-founder and lead developer at Ghost. She spends her days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
   picture: assets/images/hannah.jpg
-  linkedin: False
-  github: erisds
+  facebook: False
+  twitter: erisds
   cover: assets/images/hannah-cover.jpg
 john:
   username: john
@@ -27,8 +27,8 @@ john:
   url: john.onolan.org
   bio: Founder at Ghost.org. Writes about open source, startup life, non-profits, and publishing platforms. Travels the world with a bag of kites.
   picture: assets/images/john.jpg
-  linkedin: False
-  github: False
+  facebook: False
+  twitter: False
   cover: False
 lewis:
   username: lewis
@@ -38,8 +38,8 @@ lewis:
   url: False
   bio: My real name is Charles Lutwidge Dodgson, but people call me Lewis. I'm an English writer, mathematician, logician, Anglican deacon and photographer. People know me best for writing about Alice.
   picture: assets/images/lewis.jpeg
-  linkedin: False
-  github: False
+  facebook: False
+  twitter: False
   cover: False
 abraham:
   username: abraham
@@ -49,8 +49,8 @@ abraham:
   url: False
   bio: I was the 16th president of the USA until I was assassinated in April of 1865. I led the US through its Civil War - its bloodiest and greatest moral, constitutional and political crisis.
   picture: assets/images/abraham.jpg
-  linkedin: False
-  github: False
+  facebook: False
+  twitter: False
   cover: False
 edgar:
   username: edgar
@@ -60,8 +60,8 @@ edgar:
   url: False
   bio: I'm an American novelist, best known for my work writing about a brave jungle hero called Tarzan and his muse, Jane.
   picture: assets/images/edgar.gif
-  linkedin: False
-  github: False
+  facebook: False
+  twitter: False
   cover: False
 martin:
   username: martin
@@ -71,6 +71,6 @@ martin:
   url: False
   bio: An American pastor, activist, humanitarian. People know me for leading the African-American Civil Rights movement using nonviolent civil disobedience.
   picture: assets/images/martin.jpg
-  linkedin: False
-  github: False
+  facebook: False
+  twitter: False
   cover: False
