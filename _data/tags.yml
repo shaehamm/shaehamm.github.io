@@ -14,3 +14,7 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+software-guild:
+  name: software-guild
+  description: Projects from my time at The Software Guild
+  cover: False

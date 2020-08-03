@@ -8,7 +8,9 @@ class: page-template
 subclass: 'post page'
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+Hello! As you may have guessed my name is Shae Hamm. I graduated from the University of Wisconsin-Madison in 2017 with a BS in Atmospheric and Oceanic Sciences and a Certificate in Environmental Studies. In 2020, I decided to switch careers and graduated from The Software Guild's Java bootcamp.
+
+
 
 > If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
 
