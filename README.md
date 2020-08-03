@@ -16,11 +16,9 @@ This is a full-featured port of Ghost's default theme [Casper](https://github.co
 
 ## Features
 
-* Out of the box support for multiple authors (via `_data/authors.yml`)
-* Full author information including: picture, bio, website, twitter, facebook, etc.
 * Tag description(s) and personalised covers (via `_data/tags.yml`)
 * Related posts view at the bottom of each post
-* All Ghost default pages: Author page(s), Tag page(s), About page(s), 404, etc.
+* All Ghost default pages: Tag page(s), About page(s), 404, etc.
 * Pagination (infinite scrolling or standard pagination, i.e. posts across multiple pages)
 * Atom Feeds by [Jekyll-feed](https://github.com/jekyll/jekyll-feed)
 * Toggleable subscribe button (requires an external service)
@@ -63,13 +61,6 @@ advantages in that you simply push your file changes to GitHub and all the HTML 
 are generated for you and pushed to *gh-pages*. Also you get to know if everything is
 still fine with your site builds. Don't hesitate to contact me if you still have any
 issues (see below about issue tracking).
-
-### Author Pages
-
-In order to properly generate author pages you need to rename the field *author* in the
-front matter of every post to match that of your each author's *username* as defined
-in the *[\_data/authors.yml](_data/authors.yml)* file.
-With the latest update, multiple author blogs are now supported out of the box.
 
 ### Compiling Styles
 
